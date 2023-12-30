@@ -40,7 +40,7 @@ namespace MauiApp1.Components.Pages
             {
                 CmdOutput = process.StandardOutput.ReadLine();
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 CmdOutput = "Error: No Scan program found";
             }
