@@ -8,4 +8,4 @@ The user merely has to run this application, allow it to run as an elevated user
 The user can also set their Network settings to block malware, adult content, or ads.  Behind the scenes, this is setting the user's computer to use DNS servers from Cloudflare (with varying levels of blocking),
 or use AdGuard DNS to block malware, adult content, and ads.
 
-![alt text]([http://url/to/img.png](https://github.com/michaelmahersoftware/securitycenter/blob/main/securitycenter.png)https://github.com/michaelmahersoftware/securitycenter/blob/main/securitycenter.png)
+![Security Center](securitycenter.png?raw=true "Security Center")
